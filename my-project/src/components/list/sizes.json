@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_list_sizes",
+  "info": {
+    "displayName": "Sizes",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Size": {
+      "type": "enumeration",
+      "enum": [
+        "XS",
+        "SMALL",
+        "MEDIUM",
+        "LARGE",
+        "XL",
+        "XXL"
+      ]
+    }
+  }
+}
